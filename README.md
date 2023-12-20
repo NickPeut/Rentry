@@ -1,26 +1,25 @@
-# "Название приложения"
+# Rentry
 
  ![](https://img.shields.io/github/issues/step-ponomarev/polis-mobile-2021) ![](https://img.shields.io/github/issues-pr/step-ponomarev/polis-mobile-2021)
 
-Приложение представляет из себя нетипичный сервис по работе с базой объявлений об аренде недвижимости в Санкт-Петербурге. Основной особенностью нашего приложения является обратный процесс съема квартиры.
+The application is an atypical service for working with a database of real estate rental advertisements in St. Petersburg. The main reason for our application is the reverse process of renting an apartment.
 
-Арендатору в процессе использования нашего приложения требуется лишь написать о себе, выбрать предпочитаемое метро и ожидать предложений.
+When using our application, the tenant only needs to write about himself, select his preferred metro and expected offers.
 
-Арендодатель является пользователем производящим основные действия. Помимо размещения объявлений он ищет понравившихся ему арендаторов и высылает им предложения о снятии квартиры.
+The lessor is the user performing the main actions. In addition to posting advertisements, he searches for tenants he likes and sends them offers to rent an apartment.
+### Technical requirements
 
-### Требования
+​	min SDK version: **API 21**
 
-​	Минимальная версия SDK: **API 21**
+### Our team
 
-### Наша команда
+​	[Stepan Ponomarev](https://github.com/step-ponomarev)
 
-​	[Степан Пономарев](https://github.com/step-ponomarev)
+​	[Vadim Krivitsky](https://github.com/OGSegu)
 
-​	[Вадим Кривицкий](https://github.com/OGSegu)
+​	[Ilya Sachuk](https://github.com/IlyaAAAA)
 
-​	[Илья Сачук](https://github.com/IlyaAAAA)
+​	[Nika Peutina](https://github.com/NickPeut)
 
-​	[Ника Пеутина](https://github.com/NickPeut)
-
-*Проект выполнен в рамках дисциплины "Мобильная разработка" [Технополис](https://polis.mail.ru/).*
+*The project was completed on the educational program "Mobile Development" [Technopolis](https://polis.mail.ru/).*
 
